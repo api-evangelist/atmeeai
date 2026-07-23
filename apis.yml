@@ -1,8 +1,25 @@
 aid: atmeeai
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/atmeeai.png
 name: Atmee.ai
-description: 'Atmee.ai is a company surfaced as a portfolio company of forerunner-ventures and added to
-  the API Evangelist network as a stub for enrichment. Sector: ai. This profile is a lead awaiting the
-  enrichment pipeline.'
+description: 'Atmee.ai is a consumer platform for creating and video-calling AI avatars and personas,
+  made by Atmanity (founded 2024). Anyone can build custom AI avatars or browse thousands of
+  community-created personas across comedy, companion, productivity, and lifestyle categories, then hold
+  real-time voice and video conversations with them. The platform includes identity verification with a
+  Verified badge, a creator monetization program that pays people when others talk to their persona, and
+  LoRAvatar, an adaptation method that personalizes avatars while preserving identity-specific details
+  like wrinkles, tattoos, and facial textures. A developer API is documented as "coming soon"; today
+  Atmee is a finished consumer product rather than a developer toolkit. Backed by Forerunner Ventures.'
 url: https://raw.githubusercontent.com/api-evangelist/atmeeai/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -12,10 +29,17 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
 tags:
 - Company
 - Ai
+- Avatars
+- Conversational AI
+- Voice
+- Video
+- Personas
+- Digital Twins
+- Consumer
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,5 +47,24 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- type: DomainSecurity
+  url: security/atmeeai-domain-security.yml
 - type: Website
   url: https://www.atmee.ai
+- type: Documentation
+  url: https://www.atmee.ai/docs
+- type: Blog
+  url: https://www.atmee.ai/blog
+- type: Support
+  url: https://discord.gg/ujmfxzKHpD
+- type: SignUp
+  url: https://www.atmee.ai/signup
+- type: TermsOfService
+  url: https://www.atmee.ai/terms-of-use
+- type: PrivacyPolicy
+  url: https://www.atmee.ai/privacy-policy
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
