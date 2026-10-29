@@ -64,6 +64,85 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Atmee.ai is a consumer platform for creating and video-calling AI avatars and personas, made by Atmanity (founded 2024). Anyone can build custom AI avatars or browse thousands of community-created personas, then hold real-time voice and video conversations with them. Features include identity verification with a Verified badge, a creator monetization program, and LoRAvatar personalization. A developer API is documented as "coming soon"; today Atmee is a finished consumer product rather than a developer toolkit.
+Atmee.ai is a consumer platform for creating and video-calling AI avatars and personas, made by Atmanity (founded 2024). Anyone can build custom AI avatars or browse thousands of community-created personas across comedy, companion, productivity, and lifestyle categories, then hold real-time voice and video conversations with them. The platform includes identity verification with a Verified badge, a creator monetization program that pays people when others talk to their persona, and LoRAvatar, an adaptation method that personalizes avatars while preserving identity-specific details like wrinkles, tattoos, and facial textures. A developer API is documented as "coming soon"; today Atmee is a finished consumer product rather than a developer toolkit. Backed by Forerunner Ventures.
 
-Backed by: Forerunner Ventures — https://www.atmee.ai
+**Areas:** Company · Artificial Intelligence · Avatars · Conversational AI · Voice · Video · Personas · Digital Twin · Consumer
+
+## Atmee.ai on APIs.io
+
+Everything profiled for Atmee.ai is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/atmeeai/](https://apis.io/providers/atmeeai/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Atmeeai Domain Security](https://apis.io/security/atmeeai/atmeeai-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.atmee.ai)
+- [Documentation](https://www.atmee.ai/docs)
+- [Sign up](https://www.atmee.ai/signup)
+- [Support](https://discord.gg/ujmfxzKHpD)
+- [Blog](https://www.atmee.ai/blog)
+- [Terms of service](https://www.atmee.ai/terms-of-use)
+- [Privacy policy](https://www.atmee.ai/privacy-policy)
+
+## API Evangelist rating
+
+**Kin Score 4.4** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 7.1 |
+| Access clarity | 0.0 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 5.5** — AI & Biometrics
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/atmeeai/](https://apis.io/providers/atmeeai/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Atmee.ai: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/atmeeai/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
